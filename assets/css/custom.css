@@ -1,0 +1,108 @@
+.ctext{
+    font-family: 'Gamja Flower', cursive;
+    text-align: center;
+
+}
+.email{
+    margin:50px;
+    color :#000;
+    font-weight: bolder;
+}
+.emaildiv{
+
+}
+.social{
+	margin-right: 100px;
+	float: right;
+}
+.login{
+	/*background-image: url("https://cdn.pixabay.com/photo/2018/02/27/21/24/thread-3186657__340.jpg");*/
+	background-size: 100% 100%;
+}
+.login-form{
+	opacity: 10;
+}
+.signup{
+	/*background-image: url("https://cdn.pixabay.com/photo/2018/03/27/17/15/sewing-thread-3266636__340.jpg");*/
+	font-weight: bolder;
+	color: #000;
+}
+.register-form{
+	padding: 20px;
+}
+.top{
+	background: #646e83;
+	height: auto;
+	max-width: auto;
+	color:white;
+	padding: 30px;
+}
+.takeall{
+	height: auto;
+	width:auto;
+	margin-bottom: 100px;
+}
+/*#senators{
+	background: #646e83;
+	height: auto;
+	width: auto;
+	color:#646e83;
+	padding: 0px;
+}*/
+
+.random{
+	padding-top: 20px;
+	text-align: center;
+	background: #fff;
+	height: auto;
+	width: auto;
+	color:#646e83;
+	padding: auto;
+	padding-bottom:100px ;
+}
+.bottom{
+	background: #646e83;
+	height: 100px;
+	max-width: auto;
+	margin-top: -20px;
+}
+
+
+/*a{
+	height: 20px;
+	max-width: 20px;
+	background-color: #646e83;
+}*/
+li a:hover{
+	background-color: #646e83;
+	color: #fff;
+}
+.img{
+	margin: 30px;
+	padding: 10px;
+	height: 20%;
+	background-color:#646e83;
+	width:18%;
+	color:#000;
+	margin-left: 40px;
+	
+}
+.textimg{
+	
+	margin-top: 20px;
+}
+#addcart{
+	/*color: red;*/
+}
+body{
+	/*background-image: url("https://cdn.pixabay.com/photo/2018/03/06/17/40/fabric-3204066__340.jpg");*/
+	/*background-image: url("https://cdn.pixabay.com/photo/2018/03/27/17/15/sewing-thread-3266636__340.jpg");*/
+	/*background-image: url("https://cdn.pixabay.com/photo/2014/11/22/15/13/sewing-needle-541737__340.jpg");*/
+	background-size:;
+	color: black;
+	background: red;
+}
+.brief{
+	margin-left: 10%;
+
+}
